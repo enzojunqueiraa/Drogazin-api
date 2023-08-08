@@ -35,7 +35,8 @@ copy .env.exemplo .env
 ```
 code.
 ```
-
+## Insomnia
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Drogazin-api&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fenzojunqueiraa%2FDrogazin-api%2Fmain%2FInsomnia.json%3Ftoken%3DGHSAT0AAAAAACGBYKHDOFCF6PBP3T32PJVUZGSETDA)
 
 
 ## Licença
