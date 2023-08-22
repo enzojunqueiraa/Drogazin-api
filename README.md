@@ -4,7 +4,7 @@
 * Página de [Cadastro de Clientes](cliente.md)
 * Página de [Cadastro da Produtos ](produto.md)
 * Página de [Cadastro de Fornecedores](fornecedor.md)
-* Página de [Cadastro de Transportadoras](trasnportadora.md)
+* Página de [Cadastro de Transportadoras](transportadora.md)
 
 1. Página Inicial:
 A nossa página inicial é o ponto de partida perfeito para explorar todos os recursos que a Drogazin tem a oferecer. Fique por dentro das últimas promoções, lançamentos de produtos e atualizações importantes.
