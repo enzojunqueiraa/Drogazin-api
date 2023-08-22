@@ -1,5 +1,5 @@
 # Drogazin API com PHP e Laravel
-=======
+
 ![Logo](https://github.com/enzojunqueiraa/Drogazin-api/blob/main/imagens/Logo.png)
 * Página de [Cadastro de Clientes](cliente.md)
 * Página de [Cadastro da Produtos ](produto.md)
