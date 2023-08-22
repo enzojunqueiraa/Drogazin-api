@@ -24,12 +24,12 @@ class FornecedoresRequest extends FormRequest
     public function rules(): array
     {
         return [
-            'Nome'=>'required|max:80|min:5',
+            'Nome'=>'required|max:80',
             'Contato'=>'required|max:15|min:5',
             'CPF'=>'required|max:14|min:8|unique:fornecedores_models,CPF',
             'Email'=>'required|max:100|min:5|unique:fornecedores_models,Email',
             'InscriçãoMunicipal'=>'required|max:11|min:9',
-            'País'=>'required|max:40|min:5',
+            'País'=>'required|max:40|min:3',
             'CNPJ'=>'required|max:14|min:7|unique:fornecedores_models,CNPJ',
             'Bairro'=>'required|max:30|min:1',
             'Código'=>'required|max:12|min:7|unique:fornecedores_models,Código',
@@ -47,7 +47,6 @@ class FornecedoresRequest extends FormRequest
         return [
             'Nome.required' => 'Nome obrigatório',
             'Nome.max' => 'Nome deve conter no máximo 80 caracteres',
-            'Nome.min' => 'Nome deve conter no mínimo 5 caracteres',
             'Nome.unique' => 'Nome já cadastrado no sistema',
             'Contato.required' => 'Contato obrigatório',
             'Contato.max' => 'Contato deve conter no máximo 15 caracteres',
@@ -67,7 +66,6 @@ class FornecedoresRequest extends FormRequest
             'InscriçãoMunicipal.unique' => 'Inscrição Municipal já cadastrado no sistema',
             'País.required' => 'País obrigatório',
             'País.max' => 'País deve conter no máximo 40 caracteres',
-            'País.min' => 'País deve conter no mínimo 5 caracteres',
             'País.unique' => 'País já cadastrado no sistema',
             'CNPJ.required' => 'CNPJ obrigatório',
             'CNPJ.max' => 'CNPJ deve conter no máximo 14 caracteres',
