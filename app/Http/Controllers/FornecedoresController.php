@@ -28,4 +28,10 @@ class FornecedoresController extends Controller
             "data"=> $fornecedores
         ], 200);
     }
+
+    public function pesquisarPorId($id){
+
+    
+    return Fornecedores::find($id);
+}
 }

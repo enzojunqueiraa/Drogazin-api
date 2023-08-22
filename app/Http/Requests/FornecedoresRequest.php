@@ -26,15 +26,15 @@ class FornecedoresRequest extends FormRequest
         return [
             'Nome'=>'required|max:80',
             'Contato'=>'required|max:15|min:5',
-            'CPF'=>'required|max:14|min:8|unique:fornecedores_models,CPF',
-            'Email'=>'required|max:100|min:5|unique:fornecedores_models,Email',
+            'CPF'=>'required|max:14|min:8|unique:fornecedores,CPF',
+            'Email'=>'required|max:100|min:5|unique:fornecedores,Email',
             'InscriçãoMunicipal'=>'required|max:11|min:9',
             'País'=>'required|max:40|min:3',
-            'CNPJ'=>'required|max:14|min:7|unique:fornecedores_models,CNPJ',
+            'CNPJ'=>'required|max:14|min:7|unique:fornecedores,CNPJ',
             'Bairro'=>'required|max:30|min:1',
-            'Código'=>'required|max:12|min:7|unique:fornecedores_models,Código',
+            'Código'=>'required|max:12|min:7|unique:fornecedores,Código',
             'Cidade'=>'required|max:80|min:1',
-            'WebSite'=>'required|max:80|min:5|unique:fornecedores_models,WebSite',
+            'WebSite'=>'required|max:80|min:5|unique:fornecedores,WebSite',
         ];
     }
     public function failedValidation(Validator $validator){
