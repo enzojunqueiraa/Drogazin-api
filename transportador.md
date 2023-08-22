@@ -1,5 +1,5 @@
 # Drogazin- Transportadora:
-![Trasnportadora](https://github.com/enzojunqueiraa/Drogazin-api/imagens/transportadora.png)
+![Trasnportadora](https://github.com/enzojunqueiraa/Drogazin-api/imagens\transportadora.png)
 
 # Nessa página contem os campos:
 
