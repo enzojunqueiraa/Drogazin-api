@@ -1,5 +1,5 @@
 # Drogazin- Cliente:
-![Cliente](https://github.com/enzojunqueiraa/Drogazin-api/assets/140071695/999e5ed2-cc60-4ca2-a2f5-564259309885)
+![Cliente](https://github.com/enzojunqueiraa/Drogazin-api/blob/main/imagens/clientes.png)
 
 # Nessa página contem os campos:
 * Usuário

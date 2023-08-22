@@ -1,6 +1,6 @@
 # Drogazin- Fornecedor:
 
-![Fornecedor](https://github.com/enzojunueiraa/Drogazin-api/assets/140071695/2a6cd0b3-d312-4004-a0b2-6406567e0a15)
+![Fornecedor](https://github.com/enzojunqueiraa/Drogazin-api/blob/main/imagens/fornecedores.png)
 
 # Nessa página tem os campos:
 
