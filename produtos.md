@@ -1,5 +1,5 @@
 # Drogazin- Produto:
-![Produtos](https://github.com/enzojunqueiraa/Drogazin-api/blob/main/imagens/produtos.png)
+![Produtos](https://github.com/enzojunqueiraa/Drogazin-api/blob/main/imagens/produto.png)
 
 Na nossa Farmácia Drogazin, estamos empenhados em fornecer uma ampla variedade de produtos de saúde, bem-estar e cuidados pessoais para atender às suas necessidades. Nossa página de produtos é um verdadeiro tesouro de opções para ajudar você a cuidar de si mesmo e de sua família.
 
